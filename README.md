@@ -2,7 +2,7 @@
 
 ## 🏠 Google Form Auto-Filler for Zillow Rental Listings 📝
 
-![GitHub](https://img.shields.io/github/license/USERNAME/REPO-NAME)
+![GitHub]([https://img.shields.io/github/license/USERNAME/REPO-NAME](https://github.com/MuhammadUsmanRafi/Google_Form_Auto_Filler_for_Zillow_Rental_Listings))
 ![Python](https://img.shields.io/badge/python-3.6%20%7C%203.7%20%7C%203.8-blue)
 
 Automate the process of filling a Google Form with rental property information scraped from Zillow. This Python script utilizes Selenium and BeautifulSoup to extract property details from Zillow's rental listings and then automatically populates a Google Form with the data. 🚀
